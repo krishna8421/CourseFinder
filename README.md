@@ -1,5 +1,5 @@
 # CourseFinder
-Get most of the courses available onlins.
+Get most of the courses available online.
 
 # Use
 
